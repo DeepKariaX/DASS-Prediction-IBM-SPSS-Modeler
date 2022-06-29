@@ -1,6 +1,5 @@
 # DASS (Depression Anxiety Stress Scales) Prediction using IBM SPSS Modeler
 A Prediction based on DASS Scale built in IBM SPSS Modeler.
-Methodology - CRISP-DM
 
 ## Prerequisites:
 Make sure that you have the following:
