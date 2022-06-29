@@ -7,10 +7,12 @@ Make sure that you have the following:
 
 ## Prediction:
 <p align="left">
-  <a class="image fit">Logistic Regression
+	<br>
+  <a class="image fit"><b>Logistic Regression</b>
   	<img src="https://github.com/DeepKariaX/DASS-Prediction-IBM-SPSS-Modeler/blob/main/Prediction/DASS_Prediction_Logistic_Regression.png" alt="">
   </a>
-    <a class="image fit">Random Forest
+  <br>
+    <a class="image fit"><b>Random Forest</b>
   	<img src="https://github.com/DeepKariaX/DASS-Prediction-IBM-SPSS-Modeler/blob/main/Prediction/DASS_Prediction_Random_Forest.png" alt="">
   </a>
 </p>
